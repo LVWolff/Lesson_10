@@ -1,6 +1,6 @@
+# конечно можно использовать декорацию @propety
+
 import random
-
-
 class T_Class:
 
     def __init__(self, name):
